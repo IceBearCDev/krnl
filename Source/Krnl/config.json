@@ -1,0 +1,15 @@
+{
+  "name": "Krnl",
+  "version": "2.5",
+  "developer": "IceBearC",
+  "supported_platforms": ["Windows"],
+  "description": "A powerful and reliable Roblox exploit made for both beginners and experienced users.",
+  "features": ["Script executor", "Bytecode conversion", "Script hub", "Auto update", "Customizable UI"],
+  "requirements": ["Windows 7 or higher", "Microsoft Visual C++ redistributable package"],
+  "instructions": "1. Download and install Krnl from the official website. \n2. Open the Krnl launcher and click 'Inject'. \n3. Once the injection is successful, a notification will appear. \n4. Launch Roblox and enjoy using Krnl!",
+  "future_updates": ["Better anti-cheat bypass", "Faster injection time", "More script execution options"],
+  "license": "proprietary",
+  "disclaimer": "This exploit is meant for educational purposes only. The developer is not responsible for any misuse of this program.",
+  "bugs": ["Occasional crashes", "Compatibility issues with certain games"],
+  "contact_info": "For bug reports or feature requests, contact IceBearC on Discord: IceBearC#1234"
+}
